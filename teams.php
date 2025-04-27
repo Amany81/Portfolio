@@ -1,5 +1,5 @@
 <?php
-/*
+
 session_start();
 
 if (!isset($_SESSION['user']) && isset($_COOKIE['user'])) {
@@ -317,8 +317,6 @@ elseif ($_SERVER['REQUEST_METHOD'] === 'GET') {
     ?>
 </body>
 </html>
-*/
-
 
 // Maak verbinding met de database
 $conn = new mysqli($host, $dbUser, $dbPass, $dbName);
