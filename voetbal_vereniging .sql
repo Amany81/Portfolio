@@ -26,18 +26,18 @@ CREATE TABLE `email` (
 --
 
 INSERT INTO `email` (`emailadres`, `lidnummer`) VALUES
-('janjansen@mail.com', 1),
-('evadevries@mail.com', 2),
-('mbakker@mail.com', 3),
-('sofiavisser@mail.com', 4),
-('larsp@mail.com', 5),
-('annavdijk@mail.com', 6),
-('bramklaassen@mail.com', 7),
-('juliasmit@mail.com', 8),
-('thomasmeijer@mail.com', 9),
-('emmadj@mail.com', 10),
-('hhhhh@gmail.nl', 11),
-('tessvos@mail.nl', 12);
+('exampel1@mail.com', 1),
+('exampel2@mail.com', 2),
+('exampel3@mail.com', 3),
+('exampel4@mail.com', 4),
+('exampel5@mail.com', 5),
+('exampel6@mail.com', 6),
+('exampel7@mail.com', 7),
+('exampel8@mail.com', 8),
+('exampel9@mail.com', 9),
+('exampel10@mail.com', 10),
+('hhhhh11@gmail.nl', 11),
+('exampel2@mail.nl', 12);
 
 -- --------------------------------------------------------
 
