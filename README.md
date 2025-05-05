@@ -17,7 +17,7 @@ Security: IT Security Awareness, Cybersecurity, Data Protection
 
 How to Run
 
-Clone the repository: git clone https://github.com/Amany81/Portfolio
+Clone the repository: git clone (https://amany81.github.io/Portfolio/)
 Open index.html in a web browser to view the portfolio.
 (Optional) Host on GitHub Pages by enabling it in the repository settings.
 
