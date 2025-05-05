@@ -15,6 +15,29 @@ Cloud: Azure, AWS, Google Cloud
 Tools: Git, Photoshop, Illustrator
 Security: IT Security Awareness, Cybersecurity, Data Protection
 
+How to Run
+
+Clone the repository: git clone https://github.com/Amany81/Portfolio
+Open index.html in a web browser to view the portfolio.
+(Optional) Host on GitHub Pages by enabling it in the repository settings.
+
+Live Demo
+Visit my portfolio (Update this link after publishing)
+Contact
+
+Email: marosano2005@hotmail.com
+Phone: +31647162908
+LinkedIn: amany-kelada
+GitHub: Amany81
+
+Future Plans
+
+Add a Laravel-based project to demonstrate Backend skills.
+Include live demos for all projects.
+Enhance the portfolio with advanced JavaScript features.
+
+
+
 
 
 
